@@ -1,0 +1,3 @@
+Produto X custa R$ 149,90  
+Produto Y custa R$ 89,90  
+Descontos disponíveis em compras acima de R$ 200.
